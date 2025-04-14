@@ -398,3 +398,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Ignore inside project subfolder
+/DVLD/bin/
+/DVLD/obj/
+/DVLD/.vs/
+/DVLD/*.user
+/DVLD/*.suo
+/DVLD/*.cache
+/DVLD/*.log
+/DVLD/*.vshost.*
+/DVLD/*.dbmdl
+

@@ -400,13 +400,14 @@ FodyWeavers.xsd
 *.sln.iml
 
 
-bin/
-obj/
-*.user
-*.suo
-*.cache
-*.log
-*.vs/
-*.vshost.*
-*.dbmdl
+# Ignore inside project subfolder
+/DVLD/bin/
+/DVLD/obj/
+/DVLD/.vs/
+/DVLD/*.user
+/DVLD/*.suo
+/DVLD/*.cache
+/DVLD/*.log
+/DVLD/*.vshost.*
+/DVLD/*.dbmdl
 

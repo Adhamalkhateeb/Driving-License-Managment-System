@@ -398,3 +398,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+*.vshost.*
+*.dbmdl
+
